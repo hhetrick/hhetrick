@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**hhetrick/hhetrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cytometry in R - Starter Questions 
 
 - Location: San Diego, CA 🌊☀️
 - Favorite Fluorophore: PerCPCy5.5
